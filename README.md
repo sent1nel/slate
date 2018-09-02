@@ -9,7 +9,7 @@ Project Hiram documentation service, powered by...
 Features
 ------------
 
-See: https://github.com/lord/slate
+For a complete list of features, see: https://github.com/lord/slate
 
 Getting Started with Slate
 ------------------------------
